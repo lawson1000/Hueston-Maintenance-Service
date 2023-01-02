@@ -1,0 +1,26 @@
+.home-banner{
+    height: 100vh;
+    background-color: white;
+    width: 100%;
+}
+
+.home-banner-img{
+    width: 50%;
+    height:inherit;
+    background: url(../img/maintenance.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.home-banner-title{
+    width: 50%;
+    height: inherit;
+    float: left;
+    font-size: 30px;
+    padding-top:5px ;
+}
+
+.home-banner-txt p{
+    font-size: 13px;
+}
